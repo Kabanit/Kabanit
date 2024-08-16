@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kabanit
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Increment Studio++
 - 📫 How to reach me ...
 - ⚡ Fun fact: I'm KABAN
 
